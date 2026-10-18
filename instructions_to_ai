@@ -1,0 +1,6 @@
+1) This project is for fetchathon and hence must utilise uagents, agentverse, asi one
+2) All code written should be compatible in agentverse, asi one
+3) Dont overcomplicate the goal and dont get free with uniqueness
+4) each agent should be in ONE python script, dont keep 10 scripts to run one AI agent
+5) If any AI needs AI adress of other or API key or ASI one keys etc, mention it after end of given task by user
+6) If something is not clairfied and if any questions is to be answered before doing code, ask the user(saave to memory locally)
